@@ -6,11 +6,12 @@ void main(){
 	while(i<=5){
 	printf("\n%d",i);
 	if(i%2!=0){
-		printf("\nVISHNU");
+		printf("\nMADHU");
 	}
 	else{
-		printf("\nVISHNU");
+		printf("\nMADHU");
 	}
 	}
 	getch();
+
 }
